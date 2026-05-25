@@ -1,5 +1,5 @@
 # Active Directory — HTB Attack Notes
-> Senior pentester reference. Follow the phases top-to-bottom. All IPs/domains are placeholders — swap for target values.
+
 
 ---
 
